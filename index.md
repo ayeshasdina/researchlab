@@ -4,7 +4,7 @@
 # Artificial Intelligence Research in Security Lab
 
 
-The CyberDefence and Research Laboratory develops novel algorithms in a diverse array of subjects, notably Computer Networks Security, Machine Learning, Internet of Things (IoT), Cloud Computing, and Bioinformatics. If you are interested to join us, please check out our openings [age for more information and a description of our current open positions.
+The Artificial Intelligence Research in Security Lab develops novel algorithms in a diverse array of subjects, notably Computer Networks Security, Machine Learning, Internet of Things (IoT), Cloud Computing, and Bioinformatics. If you are interested to join us, please check out our openings [age for more information and a description of our current open positions.
 
 {% include section.html %}
 
@@ -39,8 +39,8 @@ Colby Edell presented our research paper “FSProtoTransfer: Synergizing Few-Sho
 
 {%
   include button.html
-  link="projects"
-  text="Browse our projects"
+  link="research"
+  text="See our publications"
   icon="fa-solid fa-arrow-right"
   flip=true
   style="bare"
