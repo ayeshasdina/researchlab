@@ -142,3 +142,16 @@
   image: https://www.biorxiv.org/content/biorxiv/early/2018/10/26/454686/F1.medium.gif
   plugin: sources.py
   file: sources.yaml
+- id: doi:10.32473/flairs.38.1.138858
+  title: Large Language Models for Automated Characterization of Cybersecurity Vulnerabilities
+    using N-Shot Learning
+  authors:
+  - Ayesha Dina
+  - Elijah Needham
+  - Denis Ulybyshev
+  publisher: The International FLAIRS Conference Proceedings
+  date: '2025-05-14'
+  link: https://doi.org/g9znp6
+  image: https://journals.flvc.org/public/journals/107/cover_issue_6467_en_US.png
+  plugin: sources.py
+  file: sources.yaml
