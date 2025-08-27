@@ -1,6 +1,12 @@
 ---
-title: Example post 2
-author: jane-smith
+title: Example post 1
+author: ayeshsa-dina
+tags:
+  - cybersecurity
+  - artificial intelligence
+  - bioinformatics
+  - high performance computing
 ---
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Stay Tuned!
+We're working on creating valuable and engaging blog content to share with you. Whether it's industry insights, helpful tips, or the latest updates, our blog will be the place to find it all. Check back soon for our first post — we’re excited to start this journey with you!
