@@ -7,8 +7,8 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-feather-pointed" %}Blog
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+#### Stay Tuned!
+We're working on creating valuable and engaging blog content to share with you. Whether it's industry insights, helpful tips, or the latest updates, our blog will be the place to find it all. Check back soon for our first post — we’re excited to start this journey with you!
 
 {% include section.html %}
 
