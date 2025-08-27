@@ -1,6 +1,6 @@
 ---
 title: Example post 1
-author: sarah-johnson
+author: ayeshsa-dina
 tags:
   - cybersecurity
   - artificial intelligence
