@@ -33,23 +33,27 @@
 
 
 - id: doi:10.1016/j.iot.2023.100699
-
+  type: paper
+  
 - id: doi:10.1109/ACCESS.2022.3205337
   type: paper
   buttons:
-  -type: source
-   text: Manuscript Source
-   link: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6287639/9668973/9882118/maniv2ab-3205337-small.gif
+  - type: source
+    text: Manuscript Source
+    link: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6287639/9668973/9882118/maniv2ab-3205337-small.gif
 
 - id: doi:10.1145/3627106.3627193
-
+  type: paper
 - id: doi:10.1093/bioinformatics/btz559
+  type: paper
 
 - id: doi:10.1109/IWCMC58020.2023.10182609
+  type: paper
 
 - id: doi:10.13023/etd.2023.292
+  type: paper
 
-- id: url:https://scholar.google.com/citations?view_op=view_citation&hl=en&user=FoAG77MAAAAJ&citation_for_view=FoAG77MAAAAJ:LkGwnXOMwfcC#:~:text=from%20flvc.org-,FSProtoTransfer%3A%20Synergizing%20Few%2DShot%2C%20Prototypical%20Networks%2C%20and%20Transfer%20Learning%20for%20Intrusion%20Detection%20in%20VANETs,-Authors
+
 
 
 
