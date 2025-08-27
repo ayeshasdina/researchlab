@@ -13,7 +13,7 @@ Our research interests encompass a diverse array of subjects, notably Computer N
 
 ## Highlighted
 
-{% include citation.html lookup="Open collaborative writing with Manubot" style="rich" %}
+{% include citation.html lookup="Large Language Models for Automated Characterization" style="rich" %}
 
 {% include section.html %}
 
