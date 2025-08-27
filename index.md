@@ -23,8 +23,7 @@ Elijah Needham presented our conference paper “Large Language Models for Autom
 
 {% endcapture %}
 
-
-
+{% include feature.html image="images/photo.jpg" link="research" title="Our Research" text=text %}
 {% capture text %}
 
 Colby Edell presented our research paper “FSProtoTransfer: Synergizing Few-Shot, Prototypical Networks, and Transfer Learning for Intrusion Detection in VANETs.” at 38th Annual Florida Artificial Intelligence Research Society Conference (FLAIRS-38) in Daytona Beach, Florida.
