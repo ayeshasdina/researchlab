@@ -1,16 +1,16 @@
 # site properties and page defaults
 title: AI Research in CyberSecurity 
 subtitle: 
-description: The CyberDefence and Research Laboratory develops novel algorithms in a diverse array of subjects, notably Computer Networks Security, Machine Learning, Internet of Things (IoT), Cloud Computing, and Bioinformatics. If you are interested to join us, please check out our openings page for more information and a description of our current open positions.
+description: AIRS Lab focuses on latest research topics in AI and Cybersecurity.
 header: images/background.jpg
 footer: images/background.jpg
 proofer: false
 
 # site social media and other links
 links:
-  email: contact@ayeshasdina.com
-  orcid: 0000-0001-8713-9213
-  google-scholar: ETJoidYAAAAJ
+  email: adina@floridapoly.edu
+  orcid: 0000-0001-6987-0837
+  google-scholar: FoAG77MAAAAJ&hl
   github: ayeshasdina
   twitter: ayeshasdina
   youtube: ayeshasdina
