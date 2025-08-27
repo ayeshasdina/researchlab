@@ -289,5 +289,75 @@
   publisher: Internet of Things
   date: '2023-07-01'
   link: https://doi.org/g9zm9w
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/ACCESS.2022.3205337
+  title: Effect of Balancing Data Using Synthetic Data on the Performance of Machine
+    Learning Classifiers for Intrusion Detection in Computer Networks
+  authors:
+  - Ayesha Siddiqua Dina
+  - A. B. Siddique
+  - D. Manivannan
+  publisher: IEEE Access
+  date: '2022-01-01'
+  link: https://doi.org/g9znb8
+  type: paper
+  buttons:
+  - type: source
+    text: Manuscript Source
+    link: https://ieeexplore.ieee.org/mediastore/IEEE/content/media/6287639/9668973/9882118/maniv2ab-3205337-small.gif
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1145/3627106.3627193
+  title: 'FS3: Few-Shot and Self-Supervised Framework for Efficient Intrusion Detection
+    in Internet of Things Networks'
+  authors:
+  - Dina Ayesha S.
+  - Siddique A.B.
+  - Manivannan D.
+  publisher: Annual Computer Security Applications Conference
+  date: '2023-12-04'
+  link: https://doi.org/g9qcjr
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1093/bioinformatics/btz559
+  title: Identifying emerging phenomenon in long temporal phenotyping experiments
+  authors:
+  - Jiajie Peng
+  - Junya Lu
+  - Donghee Hoh
+  - Ayesha S Dina
+  - Xuequn Shang
+  - David M Kramer
+  - Jin Chen
+  publisher: Bioinformatics
+  date: '2019-07-15'
+  link: https://doi.org/g9znb9
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.1109/IWCMC58020.2023.10182609
+  title: Conditional Privacy-preserving Authentication and Message Dissemination Scheme
+    using Timestamp based Pseudonyms for VANETs
+  authors:
+  - Ayesha S. Dina
+  - D. Manivannan
+  publisher: 2023 International Wireless Communications and Mobile Computing (IWCMC)
+  date: '2023-06-19'
+  link: https://doi.org/g9zncb
+  type: paper
+  plugin: sources.py
+  file: sources.yaml
+- id: doi:10.13023/etd.2023.292
+  title: Deep Learning-Based Intrusion Detection Methods for Computer Networks and
+    Privacy
+  authors:
+  - Ayesha Dina
+  publisher: University of Kentucky Libraries
+  date: '2023-01-01'
+  link: https://doi.org/g9zncc
+  type: paper
   plugin: sources.py
   file: sources.yaml
