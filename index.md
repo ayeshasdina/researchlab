@@ -19,24 +19,11 @@ The Artificial Intelligence Research in Security Lab develops novel algorithms i
 
 Elijah Needham presented our conference paper “Large Language Models for Automated Characterization of Cybersecurity Vulnerabilities using N-Shot Learning” at FLAIRS-38 in Daytona Beach! This paper explores how LLMs can be leveraged to characterize vulnerabilities only using limited training data.
 
-{%
-  include button.html
-  link="research"
-  text="See our publications"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
+
 
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="research"
-  title="Our Research"
-  text=text
-%}
+
 
 {% capture text %}
 
