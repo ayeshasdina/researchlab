@@ -4,7 +4,7 @@
 # Artificial Intelligence Research in Security Lab
 
 
-The Artificial Intelligence Research in Security Lab develops novel algorithms in a diverse array of subjects, notably Computer Networks Security, Machine Learning, Internet of Things (IoT), Cloud Computing, and Bioinformatics. If you are interested to join us, please check out our openings [age for more information and a description of our current open positions.
+The Artificial Intelligence Research in Security Lab develops novel algorithms in a diverse array of subjects, notably Computer Networks Security, Machine Learning, Internet of Things (IoT), Cloud Computing, and Bioinformatics. If you are interested to join us, please check out our openings page for more information and a description of our current open positions.
 
 {% include section.html %}
 ## News
