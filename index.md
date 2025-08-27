@@ -53,14 +53,6 @@ Colby Edell presented our research paper “FSProtoTransfer: Synergizing Few-Sho
 
 {% endcapture %}
 
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="projects"
-  title="Our Projects"
-  flip=true
-  style="bare"
-  text=text
-%}
+
 
 
