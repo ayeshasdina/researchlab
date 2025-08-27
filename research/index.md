@@ -7,8 +7,7 @@ nav:
 
 # {% include icon.html icon="fa-solid fa-microscope" %}Research
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat.
+Our research interests encompass a diverse array of subjects, notably Computer Networks Security, Machine Learning, Internet of Things (IoT), Cloud Computing, and Bioinformatics. In addition to our field of study, we are interested in exploring other research areas, and open to ideas across all avenues of science.
 
 {% include section.html %}
 
