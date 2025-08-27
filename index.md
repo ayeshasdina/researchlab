@@ -1,9 +1,10 @@
 ---
 ---
 
-# ayeshasdina's Website
+# Artificial Intelligence Research in Security Lab
 
-An engaging 1-3 sentence description of your lab.
+
+The CyberDefence and Research Laboratory develops novel algorithms in a diverse array of subjects, notably Computer Networks Security, Machine Learning, Internet of Things (IoT), Cloud Computing, and Bioinformatics. If you are interested to join us, please check out our openings [age for more information and a description of our current open positions.
 
 {% include section.html %}
 
@@ -11,7 +12,7 @@ An engaging 1-3 sentence description of your lab.
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Elijah Needham presented our conference paper “Large Language Models for Automated Characterization of Cybersecurity Vulnerabilities using N-Shot Learning” at FLAIRS-38 in Daytona Beach! This paper explores how LLMs can be leveraged to characterize vulnerabilities only using limited training data.
 
 {%
   include button.html
@@ -34,7 +35,7 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
 
 {% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
+Colby Edell presented our research paper “FSProtoTransfer: Synergizing Few-Shot, Prototypical Networks, and Transfer Learning for Intrusion Detection in VANETs.” at 38th Annual Florida Artificial Intelligence Research Society Conference (FLAIRS-38) in Daytona Beach, Florida.
 
 {%
   include button.html
@@ -57,25 +58,4 @@ Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor i
   text=text
 %}
 
-{% capture text %}
 
-Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.
-
-{%
-  include button.html
-  link="team"
-  text="Meet our team"
-  icon="fa-solid fa-arrow-right"
-  flip=true
-  style="bare"
-%}
-
-{% endcapture %}
-
-{%
-  include feature.html
-  image="images/photo.jpg"
-  link="team"
-  title="Our Team"
-  text=text
-%}
