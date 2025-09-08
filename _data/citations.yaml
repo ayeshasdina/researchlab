@@ -1,5 +1,17 @@
 # DO NOT EDIT, GENERATED AUTOMATICALLY
 
+- id: doi:10.1007/978-3-031-98235-4_6
+  title: Systematic Review of AI and Non-AI Approaches for Personalized Learning Paths
+  authors:
+  - Bismack Tokoli
+  - Ayesha S. Dina
+  - Luis Jaimes
+  publisher: Communications in Computer and Information Science
+  date: '2025-08-30'
+  link: https://doi.org/g9z33p
+  orcid: 0000-0001-6897-0837
+  plugin: orcid.py
+  file: orcid.yaml
 - id: doi:10.32473/flairs.38.1.138952
   title: 'FSProtoTransfer: Synergizing Few-Shot, Prototypical Networks, and Transfer
     Learning for Intrusion Detection in VANETs'
